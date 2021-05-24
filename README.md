@@ -9,8 +9,10 @@ This project aims to build a website which  provides the accurate and live infor
                                           ***************************TECHNOLOGY USED*************************
 
 1. HTML : Hyper Text Markup Language(HTML) is the standard markup language for creating web pages.
-* HTML stands for Hyper Text Markup Language.*HTML is the standard markup language for creating Web pages.
-* HTML describes the structure of a Web page.*HTML consists of a series of elements.
+* HTML stands for Hyper Text Markup Language.
+* HTML is the standard markup language for creating Web pages.
+* HTML describes the structure of a Web page.
+* HTML consists of a series of elements.
 * HTML elements tell the browser how to display the content.
 * HTML elements label pieces of content such as "this is a heading", "this   is a paragraph", "this is a link", etc.
 
@@ -39,7 +41,7 @@ This project aims to build a website which  provides the accurate and live infor
 5. AWS CLOUD : Amazon Web Services (AWS) is a subsidiary of Amazon providing on-demand cloud computing platforms and APIs to individuals, companies, and governments, on a metered pay-as-you-go basis. These cloud computing web services provide a variety of basic abstract technical infrastructure and distributed computing building blocks and tools. One of these services is Amazon Elastic Compute Cloud (EC2), which allows users to have at their disposal a virtual cluster of computers, available all the time, through the Internet.
 
 
-                                            ************************8API’S USED********************************* 
+                                            ************************API’S USED********************************* 
  1. ./Gilroy-Regular.woff’-> we used this API to use Gilroy family fonts in our website.
      Gilroy Free Font Family is a modern sans serif with a geometric touch. An older brother of the original Qanelas font family. It comes in 20 weights, 10 uprights and its matching italics. The Light & Extra Bold weights are free of charge, so you can use them to your heart’s content.
      
